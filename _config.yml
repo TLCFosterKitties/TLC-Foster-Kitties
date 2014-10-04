@@ -1,0 +1,12 @@
+# Site settings
+title: TLC Foster Kitties
+email: Crystal.coan@yahoo.com
+description: > # this means to ignore newlines until "baseurl:"
+  Petfinder Site For TLC Foster Kitties
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+crazy_cat_lady_fosters_facebook_url: "https://www.facebook.com/Crazycatladiesfosterkitties"
+auntie_tanda_house_full_of_hair_facebook_url: "https://www.facebook.com/AuntieTandaHouseFullofFur"
+
+# Build settings
+markdown: kramdown
