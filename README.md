@@ -1,2 +1,2 @@
-# tlcfosterkitties.github.io
-SPA For A Local Rescue
+# tlcfosters.github.io
+SPA For TLC Fosters
